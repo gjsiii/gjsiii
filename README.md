@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gjsiii
-- 👀 I’m interested in ... raspberry pis, home assistant, microcontrolers
-- 🌱 I’m currently learning ... raspberry pis, home assistant, microcontrolers
+- 👀 I’m interested in ... raspberry pis, home assistant, microcontrollers
+- 🌱 I’m currently learning ... raspberry pis, home assistant, microcontrollers
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
